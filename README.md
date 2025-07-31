@@ -11,7 +11,7 @@ Nvidia-NIM/
 ├── app1.py             # Alternate or experimental app version
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
-└── LICENSE             # GPL-3.0 License
+└── LICENSE             # MIT License
 🧰 Requirements
 To run this project, you'll need:
 
