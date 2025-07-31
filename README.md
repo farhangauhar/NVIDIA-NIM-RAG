@@ -35,7 +35,7 @@ Simple Python-based inference setup
 Demonstrates integration with NVIDIA NIM
 Easy to extend for custom models
 📄 License
-This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 🙌 Contributing
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
